@@ -14,9 +14,8 @@ I am an enthusiastic economist for the best web & mobile development technologie
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="20" alt="sql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusoss&show_icons=true&count_private=true&hide_border=true&title_color=1235E4&icon_color=1235E4&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Oliveira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusoss&layout=compact&hide_border=true&title_color=1235E4&text_color=c9d1d9&bg_color=0d1117" />
- </div>
+
+[![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusoss&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/matheusoss/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusoss&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/matheusoss/github-readme-stats)
 
 We are what we do repeatedly. Excellence, then, is not a way of acting, but a habit.
