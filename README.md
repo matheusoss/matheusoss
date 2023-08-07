@@ -15,7 +15,7 @@ I am an enthusiastic economist for the best web & mobile development technologie
 <code><img height="20" alt="sql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
 
-[![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusoss&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/matheusoss/github-readme-stats)
+[![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusoss&count_private=false&show_icons=true&theme=transparent&hide_border=true)](https://github.com/matheusoss/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusoss&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/matheusoss/)
 
 We are what we do repeatedly. Excellence, then, is not a way of acting, but a habit.
